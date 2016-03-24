@@ -1,4 +1,4 @@
-#this decision is the second objective of the project Euler
+#this decision is the second problem of the project Euler
 import math
 
 sqrt_five = math.sqrt(5)
