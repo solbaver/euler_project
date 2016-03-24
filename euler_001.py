@@ -1,3 +1,4 @@
+#this decision is the first problem of the project Euler
 def sum(n, max):
 	sum = 0
 	count = 0
